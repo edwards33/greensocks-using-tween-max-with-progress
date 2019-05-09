@@ -1,0 +1,17 @@
+{
+  "name": "greensocks-using-tween-max-with-progress",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gsap": "^2.1.2",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
